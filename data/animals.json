@@ -126,6 +126,13 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Fr",
+      "species": "frfr",
+      "diet": "folivore",
+      "personalityTraits": [],
+      "id": "13"
     }
   ]
 }
